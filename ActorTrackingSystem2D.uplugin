@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Waypoint UI System",
+	"Description": "A one-stop shop for tracking actors seamlessly in UI, including via a Capture Component. It is designed to ba able to bind to any actor, at its origin, by component tag, or by socket name (on an actor). You can add visibility tags to define layering.",
+	"Category": "UI",
+	"CreatedBy": "Joseph Sierejko",
+	"CreatedByURL": "joehogan23.github.io",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ActorTrackingSystem2D",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"SupportURL": ""
+}

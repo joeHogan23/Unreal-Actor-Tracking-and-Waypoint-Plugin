@@ -1,0 +1,18 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ActorTrackingSystem2D.gen.cpp.obj": [
+			"ActorTracking2DCommonTypes.gen.cpp.obj",
+			"ActorTracking2DComponent.gen.cpp.obj",
+			"ActorTracking2DProjectSettings.gen.cpp.obj",
+			"ActorTracking2DSubsystem.gen.cpp.obj",
+			"ActorTracking2DSystemInterface.gen.cpp.obj",
+			"ActorTrackingDescriptor.gen.cpp.obj",
+			"ActorTrackingHandle.gen.cpp.obj",
+			"ActorTrackingSpecHandlePair.gen.cpp.obj",
+			"ActorTrackingSystem2D.init.gen.cpp.obj",
+			"ActorTrackingSystem2DGlobals.gen.cpp.obj",
+			"TrackingWidgetInterface.gen.cpp.obj"
+		]
+	}
+}

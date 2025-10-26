@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealengine\\tsc_projectdeep\\plugins\\actortrackingsystem2d\\source\\actortrackingsystem2d\\private\\actortracking2dprojectsettings.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealengine\\engine\\intermediate\\build\\win64\\x64\\unrealeditornu\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unrealengine\\tsc_projectdeep\\plugins\\actortrackingsystem2d\\intermediate\\build\\win64\\x64\\unrealeditornu\\development\\actortrackingsystem2d\\definitions.actortrackingsystem2d.h",
+            "c:\\unrealengine\\tsc_projectdeep\\plugins\\actortrackingsystem2d\\source\\actortrackingsystem2d\\public\\actortracking2dprojectsettings.h",
+            "c:\\unrealengine\\tsc_projectdeep\\plugins\\actortrackingsystem2d\\intermediate\\build\\win64\\unrealeditor\\inc\\actortrackingsystem2d\\uht\\actortracking2dprojectsettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
