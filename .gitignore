@@ -35,14 +35,6 @@
 */Intermediate/*
 */Saved/*
 
-#HoloLens nonsense
-/Engine/Source/ThirdParty/WindowsMixedRealityInterop/packages/*
-/Engine/Source/ThirdParty/WindowsMixedRealityInterop/MixedRealityInteropHoloLens/Generated Files/*
-/Engine/Source/ThirdParty/WindowsMixedRealityInterop/MixedRealityInteropHoloLens/x64/*
-/Engine/Source/ThirdParty/WindowsMixedRealityInterop/MixedRealityInteropHoloLens/ARM64/*
-/Engine/Source/ThirdParty/WindowsMixedRealityInterop/MixedRealityInterop/x64/*
-/Engine/Source/ThirdParty/WindowsMixedRealityInterop/MixedRealityInterop/ARM64/*
-
 */Binaries/*
 */Bin/*
 */obj/*
@@ -61,13 +53,8 @@
 *.VC.db
 *.VC.opendb
 
-# Precompiled Assets
-SourceArt/**/*.png
-SourceArt/**/*.tga
-
 # Binary Files
 Binaries/*
-Plugins/*/Binaries/*
 
 # Builds
 Build/*
@@ -88,9 +75,6 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
-Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-Content/StarterContent/*
